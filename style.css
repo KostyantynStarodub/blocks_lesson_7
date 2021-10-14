@@ -1,0 +1,85 @@
+.mother{
+    background-color: blue;
+    width: 800px;
+    height: 600px;
+    margin: auto;
+}
+.text1{
+    background-color: rgb(175, 219, 132);
+    width: 100%;
+    height: 200px;
+}
+.text2{
+    background-color: rgb(82, 178, 202);
+    width: 100%;
+    height: 200px;
+}
+.text3{
+    background-color: rgb(226, 78, 214);
+    width: 100%;
+    height: 200px;
+}
+.papa{
+    background-color: coral;
+    width: 800px;
+    height: 600px;
+    margin: 20px auto;
+
+}
+.row1{
+    background-color: cornflowerblue;
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.row2{
+    background-color: rgb(56, 161, 100);
+    width: 100%;
+    height: 200px;
+}
+.row3{
+    background-color: rgb(224, 226, 138);
+    width: 100%;
+    height: 200px;
+    display: flex;
+}
+.rty1{
+    background-color: rgb(228, 55, 55);
+    width: 33.3%;
+    height: 100%;
+}
+.rty2{
+    background-color: rgb(74, 130, 138);
+    width: 33.3%;
+    height: 100%;
+}
+.rty3{
+    background-color: rgb(246, 30, 156);
+    width: 33.3%;
+    height: 100%;
+}
+.son1{
+    background-color: rgb(177, 100, 228);
+    width: 50%;
+    height: 100%;
+}
+.son2{
+    background-color: rgb(141, 78, 49);
+    width: 50%;
+    height: 100%;
+}
+.sister{
+    background-color: darksalmon;
+    width: 800px;
+    height: 600px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+.sister div{
+    background-color: rgb(195, 177, 174);
+    width: 200px;
+    height: 200px;
+}
